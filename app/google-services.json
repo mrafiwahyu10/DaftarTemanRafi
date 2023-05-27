@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301573273637",
+    "project_id": "daftartemanrafi",
+    "storage_bucket": "daftartemanrafi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301573273637:android:a3dbe8966a32a71357a7cc",
+        "android_client_info": {
+          "package_name": "com.rafi.daftartemanrafi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301573273637-ti0bhpqrcnneghhdgbs8ldf8enmo2gns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIP_cGZSFbLtfibDLLFqjfxa9ucviSrZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301573273637-ti0bhpqrcnneghhdgbs8ldf8enmo2gns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
